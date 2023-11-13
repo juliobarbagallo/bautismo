@@ -10,7 +10,6 @@ export const IphoneProMax = () => {
           <img
             className="invitation-figma"
             alt="Angie y Valen"
-            // src="https://c.animaapp.com/GpchFkYV/img/invitation-figma-1.png"
             src={angieValen}
           />
           <div className="button-parroquia">
