@@ -9,14 +9,16 @@ export const IphoneProMax = () => {
         <div className="overlap">
           <img
             className="invitation-figma"
-            alt="Angie y Valen"
+            alt="Angie Valen"
             src={angieValen}
           />
           <div className="button-parroquia">
             <a href="https://maps.app.goo.gl/HMLMjjS96yk1GvPb8" target="_blank" rel="noopener noreferrer">
               <div className="overlap-group">
                 <div className="rectangle" />
-                <p className="text-wrapper">11:30 | Parroquia inmaculada concepción: José cubas 3599</p>
+                <p className="text-wrapper">
+                  11:30 | Parroquia inmaculada concepción: José cubas 3599
+                </p>
               </div>
             </a>
           </div>
@@ -29,16 +31,13 @@ export const IphoneProMax = () => {
               </div>
             </a>
           </div>
-          <div className="asisitir-button">
-            <a href="https://forms.gle/vqj751mpHtnXPscC9" target="_blank" rel="noopener noreferrer">
-            <div className="div-wrapper">
-              <div className="text-wrapper-2">Confirmar asistencia</div>
-            </div>
-            </a>
-          </div>
 
-          
-        </div> 
+        </div>
+        <a href="https://forms.gle/eThDd2oJ2tjMoqT68" target="_blank" rel="noopener noreferrer">
+          <div className="asistencia">
+            Confirmar asistencia
+          </div>
+        </a>
       </div>
     </div>
   );
