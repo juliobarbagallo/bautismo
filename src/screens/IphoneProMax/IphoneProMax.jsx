@@ -35,7 +35,7 @@ export const IphoneProMax = () => {
               </div>
             </a>
           </div>
-          <div className="overlap-group-wrapper">
+          <div className="button-festejo">
             <a href="https://maps.app.goo.gl/fDmbJ7k7h2hZT9iM9" target="_blank" rel="noopener noreferrer">
               <div className="overlap-2">
                 <div className="rectangle-2" />
