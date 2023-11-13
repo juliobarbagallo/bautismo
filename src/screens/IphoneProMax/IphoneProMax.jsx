@@ -9,7 +9,7 @@ export const IphoneProMax = () => {
         <div className="overlap">
           <img
             className="invitation-figma"
-            alt="Invitation figma"
+            alt="Angie y Valen"
             // src="https://c.animaapp.com/GpchFkYV/img/invitation-figma-1.png"
             src={angieValen}
           />
