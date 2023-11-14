@@ -63,7 +63,7 @@ export const IphoneProMax = () => {
             <a href="https://maps.app.goo.gl/HMLMjjS96yk1GvPb8" target="_blank" rel="noopener noreferrer">
               <div className="overlap-group">
                 <div className="div" />
-                <p className="text-wrapper">11:30 | Parroquia inmaculada concepción: José cubas 3599</p>
+                <p className="text-wrapper">11:30 | Parroquia Inmaculada Concepción: José cubas 3599</p>
               </div>
             </a>
           </div>
@@ -71,7 +71,7 @@ export const IphoneProMax = () => {
             <a href="https://maps.app.goo.gl/fDmbJ7k7h2hZT9iM9" target="_blank" rel="noopener noreferrer">
               <div className="overlap-2">
                 <div className="rectangle-2" />
-                <p className="p">13:00 | Festejo en Tamarindo: campana 1747</p>
+                <p className="p">13:00 | Festejo en Tamarindo: Campana 1747</p>
               </div>
             </a>
           </div>
