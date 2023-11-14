@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from "react";
 import "./style.css";
 
-import angieValen from "../../../static/Invitation-figma2.png";
+import angieValen from "../../../static/invite1.png";
 import confetti from 'canvas-confetti';
 
 export const IphoneProMax = () => {
