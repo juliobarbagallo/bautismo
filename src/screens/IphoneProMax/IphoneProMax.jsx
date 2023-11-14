@@ -63,7 +63,7 @@ export const IphoneProMax = () => {
             <a href="https://maps.app.goo.gl/HMLMjjS96yk1GvPb8" target="_blank" rel="noopener noreferrer">
               <div className="overlap-group">
                 <div className="div" />
-                <p className="text-wrapper">11:30 | Parroquia Inmaculada Concepción: José cubas 3599</p>
+                <p className="text-wrapper">11:30 | Parroquia Inmaculada Concepción: José Cubas 3599</p>
               </div>
             </a>
           </div>
